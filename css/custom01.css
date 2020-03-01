@@ -1,6 +1,6 @@
 #myDIV {
   width: auto;
-  height: 800px;
+  height: 100%;
   background: #9A0794;
   animation: mymove 16s infinite;
 }
