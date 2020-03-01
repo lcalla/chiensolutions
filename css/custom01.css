@@ -1,4 +1,11 @@
-body {	
-background-image: url("css/relax.jpg");
-background-color: #600080;
+#myDIV {
+width: 300px;
+height: 200px;
+background: red;
+animation: mymove 5s infinite;
 }
+
+@keyframes mymove {
+50% {background-color: blue;}
+}
+
