@@ -9,9 +9,11 @@ body {
   
   background: #9A0794;
   animation: mymove 16s infinite;
+  background-position: center center;
 }
 
 @keyframes mymove {
   50% {background-color: #E4F132;}
+  background-position: center center;
 }
 
