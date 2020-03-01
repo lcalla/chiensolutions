@@ -1,3 +1,4 @@
 body {	
-background-image: url(css/relax.jpg);
+background-image: url("css/relax.jpg");
+background-color: #cccccc;
 }
