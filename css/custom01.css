@@ -7,11 +7,11 @@ body {
   width: auto;
   height: 50px;
   
-  background: #9A0794;
-  animation: mymove 16s infinite;
+  background: ##ffff00;
+  animation: mymove 20s infinite;
 }
 
 @keyframes mymove {
-  50% {background-color: #E4F132;}
+  50% {background-color: #ffffff;}
 }
 
