@@ -1,11 +1,9 @@
 body {
   background-color: black;
-  
-}
-
-#myDIV {
+  /*
   width: auto;
   height: 50px;
+  */
   
   background: #ffff00;
   animation: mymove 20s infinite;
@@ -13,5 +11,7 @@ body {
 
 @keyframes mymove {
   50% {background-color: #ffffff;}
+  
 }
+
 
